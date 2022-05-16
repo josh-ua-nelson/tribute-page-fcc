@@ -48,6 +48,28 @@ body {
     font-size: 18px;
 }
 
+#tribute-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#tribute-info ul {
+    display: flex;
+    flex-direction: column;
+    width: 50em;
+    padding: 0;
+ 
+}
+
+#tribute-info li {
+    list-style: none;
+}
+
+#tribute-info p {
+    padding-left: 20px;
+}
+
 a {
 
 }
