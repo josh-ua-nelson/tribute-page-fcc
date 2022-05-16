@@ -1,6 +1,6 @@
 # tribute-page-fcc
 FreeCodeCamp tribute page project
-
+<!-- 
 1. Your tribute page should have an element with a corresponding id="main", which contains all other elements
 
 2. You should see an element with an id of title, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")
@@ -17,5 +17,10 @@ FreeCodeCamp tribute page project
 
 8. Your #image should use max-width and height properties to resize responsively, relative to the width of its parent element, without exceeding its original size
 
-9. Your img element should be centered within its parent element
+9. Your img element should be centered within its parent element -->
 
+
+
+Source for Giant Steps: https://en.wikipedia.org/wiki/Giant_Steps
+
+Source for A Love Supreme: https://en.wikipedia.org/wiki/A_Love_Supreme
