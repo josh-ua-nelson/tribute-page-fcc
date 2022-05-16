@@ -1,5 +1,6 @@
 html {
     font-size: 14px;
+    font-family: Georgia, "Times New Roman", sans-serif;
 }
 
 body {
@@ -27,6 +28,7 @@ body {
 #title h2 {
     font-size: 24px;
     margin-bottom: 20px;
+    font-weight: 100;
 }
 
 #img-div {
@@ -71,6 +73,24 @@ body {
 
 #tribute-info p {
     padding-left: 20px;
+}
+
+#quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 30em;
+    margin: 0 35em;
+    border-bottom-style: solid;
+}
+
+footer p {
+    text-align: center;
+    background-color: #eee;
+    margin: 20px 0 0;
+    padding: 20px 0;
+    font-weight: bold;
 }
 
 a {
