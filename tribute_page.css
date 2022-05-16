@@ -43,7 +43,7 @@ body {
 
 #image {
     height: auto;
-    max-width: 50em;
+    max-width: 100%;
 }
 
 #img-caption {
